@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://s.shopee.co.id/:path*",
+      "permanent": false
+    }
+  ]
+}
